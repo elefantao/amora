@@ -14,4 +14,4 @@ let media=function (num1,num2,num3) {
 
 
 }
-console.log(media(1,2,3u))
+console.log(media(1,2,3))
