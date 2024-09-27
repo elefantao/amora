@@ -16,7 +16,8 @@ let media=function (num1,num2,num3) {
 }
 console.log(media(1,2,3));
 
-let valor1=prompt()
+let notas=parseInt(prompt('Notas Primeiro Tri'));
+let notas=parseInt(prompt('Notas Segundo Tri'))
 document.write()
 
 parseInt (prompt(()))
