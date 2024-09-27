@@ -1,4 +1,6 @@
-function soma(num41,num43) {
-return num41+num43
+function soma(num1,num2) {
+return num1+num2 ;
     
 }
+console.log(soma(5,3));
+ 
