@@ -14,4 +14,9 @@ let media=function (num1,num2,num3) {
 
 
 }
-console.log(media(1,2,3))
+console.log(media(1,2,3));
+
+let valor1=prompt()
+document.write()
+
+parseInt (prompt(()))
