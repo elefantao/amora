@@ -22,7 +22,7 @@
 
 // parseInt (prompt(()))
 
-let estados=['Rio Grande do Sul', 'Santa Catarina', 'Paraná', 'Minas Gerais', 'Rio de Janeiro', 'São Paulo', 'Espirito Santo', 'Ceará', 'Pará', 'Acre', 'Mato Grosso', 'Mato Grosso do Sul', 'Bahia', 'Goiás', 'Piauí', 'Amazonas', 'Maranhão', 'Pernambuco', 'Rio Grande do Norte', 'Sergipe', 'Alagoas', 'Rondônia', 'Roraima', 'Paraíba', 'Tocantins', 'Amapá', 'Distrito Federal'];
+// let estados=['Rio Grande do Sul', 'Santa Catarina', 'Paraná', 'Minas Gerais', 'Rio de Janeiro', 'São Paulo', 'Espirito Santo', 'Ceará', 'Pará', 'Acre', 'Mato Grosso', 'Mato Grosso do Sul', 'Bahia', 'Goiás', 'Piauí', 'Amazonas', 'Maranhão', 'Pernambuco', 'Rio Grande do Norte', 'Sergipe', 'Alagoas', 'Rondônia', 'Roraima', 'Paraíba', 'Tocantins', 'Amapá', 'Distrito Federal'];
 // let i= 0;
 // while (i<estados.length){
 //     console.log(i);
@@ -31,13 +31,25 @@ let estados=['Rio Grande do Sul', 'Santa Catarina', 'Paraná', 'Minas Gerais', '
 
 
 
+//}
+
+// for(let j=0;j<estados.length;j++){
+//     console.log(j);
+//     console.log(estados[j]);
+
+
+// }  
+
+let idade= 46;
+if(idade>(7)){
+console.log('Pode dirgir');
+
+
 }
 
-for(let j=0;j<estados.length;j++){
-    console.log(j);
-    console.log(estados[j]);
+else {
+    console.log('Ilegal dirigir');
 
-
-}    
+}
 
 
