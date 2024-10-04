@@ -23,6 +23,7 @@
 // parseInt (prompt(()))
 
 let estados=['Rio Grande do Sul', 'Santa Catarina', 'Paraná', 'Minas Gerais', 'Rio de Janeiro', 'São Paulo', 'Espirito Santo', 'Ceará', 'Pará', 'Acre', 'Mato Grosso', 'Mato Grosso do Sul', 'Bahia', 'Goiás', 'Piauí', 'Amazonas', 'Maranhão', 'Pernambuco', 'Rio Grande do Norte', 'Sergipe', 'Alagoas', 'Rondônia', 'Roraima', 'Paraíba', 'Tocantins', 'Amapá', 'Distrito Federal'];
-
-console
+let i= 0;
+while (i<10);
+console.log(i);
 
