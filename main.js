@@ -40,7 +40,7 @@
 
 // }  
 
-let idade= 46;
+let idade=  parseInt(prompt('Qual sua idade?'));
 if(idade>(7)){
 console.log('Pode dirgir');
 
@@ -51,5 +51,3 @@ else {
     console.log('Ilegal dirigir');
 
 }
-
-
