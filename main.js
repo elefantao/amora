@@ -26,9 +26,9 @@ let estados=['Rio Grande do Sul', 'Santa Catarina', 'Paraná', 'Minas Gerais', '
 let i= 0;
 while (i<10){
     console.log(i);
-    console.çog(estados[i]);
+    console.log(estados[i]);
     i++;
-    
+
 
 
 }
